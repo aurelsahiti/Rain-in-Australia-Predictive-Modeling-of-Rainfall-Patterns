@@ -22,11 +22,12 @@ Libraries: pandas, scikit-learn, matplotlib, ggplot2
 ### Files
 
 RainPrediction.py: Main script for data preprocessing, model training, and evaluation.
+
 RainData.csv: Historical weather data from Australia.
 
-### README.md: This documentation.
-How to Run
+README.md: This documentation.
 
+### How to Run
 Clone the repository and load the RainData.csv file.
 
 Open and run RainPrediction.py in a Python environment.
